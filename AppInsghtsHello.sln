@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepApiProj", "WepApiProj\WepApiProj.csproj", "{5BC4D54F-49FD-4853-9A19-E76713D9010D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppA", "AppA\AppA.csproj", "{EB0297EF-CD1D-41C0-A566-CD9E79388993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{13D85633-BC7A-47F2-9573-EF843D692F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppB", "AppB\AppB.csproj", "{5D77D6AB-53CB-4D22-B9A2-1ABA77DB1CC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2CBE5C57-770C-4AE1-B279-FD4BB8A48E10}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc_images", "doc_images", "{AD0D5AD5-2387-4082-9E92-08BBB4CD91CC}"
+ProjectSection(SolutionItems) = preProject
+	doc_images\application_map.PNG = doc_images\application_map.PNG
+	doc_images\application_map2.PNG = doc_images\application_map2.PNG
+	doc_images\End-to-end_transaction_details.PNG = doc_images\End-to-end_transaction_details.PNG
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC4D54F-49FD-4853-9A19-E76713D9010D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC4D54F-49FD-4853-9A19-E76713D9010D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC4D54F-49FD-4853-9A19-E76713D9010D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC4D54F-49FD-4853-9A19-E76713D9010D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0297EF-CD1D-41C0-A566-CD9E79388993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0297EF-CD1D-41C0-A566-CD9E79388993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0297EF-CD1D-41C0-A566-CD9E79388993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0297EF-CD1D-41C0-A566-CD9E79388993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D85633-BC7A-47F2-9573-EF843D692F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D85633-BC7A-47F2-9573-EF843D692F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D85633-BC7A-47F2-9573-EF843D692F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D85633-BC7A-47F2-9573-EF843D692F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D77D6AB-53CB-4D22-B9A2-1ABA77DB1CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D77D6AB-53CB-4D22-B9A2-1ABA77DB1CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D77D6AB-53CB-4D22-B9A2-1ABA77DB1CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D77D6AB-53CB-4D22-B9A2-1ABA77DB1CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD0D5AD5-2387-4082-9E92-08BBB4CD91CC} = {2CBE5C57-770C-4AE1-B279-FD4BB8A48E10}
+	EndGlobalSection
+EndGlobal

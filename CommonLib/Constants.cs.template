@@ -1,0 +1,10 @@
+﻿namespace CommonLib
+{
+    public class Constants
+    {
+        public const string SbConnectionString =
+            "Endpoint=sb://.......servicebus.windows.net/;SharedAccessKeyName=....;SharedAccessKey=.....";
+
+        public const string AiKey = "....";
+    }
+}
